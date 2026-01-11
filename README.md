@@ -12,8 +12,8 @@ L’accent est mis sur la **qualité des données**, la **traçabilité des trai
 Mini_python_project
 
 - data/
-- │   ├── raw/                            # Données brutes 
-- │   └── processed/                      # Données nettoyées 
+- │   ├── raw/                            
+- │   └── processed/                       
 - notebooks/
 - │   ├── 00_main_execution.ipynb         
 - │   ├── 01_data_audit.ipynb
@@ -91,7 +91,7 @@ Les tables finales sont disponibles dans : results/tables
 
 
 ## Outils utilisés
-- Python 3
+- Python 3.13.9
 - Pandas
 - NumPy
 - Jupyter Notebook

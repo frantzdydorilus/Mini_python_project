@@ -105,7 +105,7 @@ Pour reproduire l’analyse complète, exécuter le notebook : notebooks/00_main
 Ce notebook appelle logiquement l’ensemble des étapes du projet.
 
 
-## Auteurs 
+## Auteur 
 - **Frantzdy DORIlUS**  
 
 Projet réalisé dans le cadre d’un exercice académique d’analyse de données avec Python.
